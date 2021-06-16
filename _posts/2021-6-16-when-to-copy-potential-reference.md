@@ -49,7 +49,7 @@ To avoid such mistakes, you must always pause and check what the lead is trying 
 If the lead mentions he or she is not the right person and refers to another person, you should not copy the lead’s email address in the new email thread to start with the referred person. But in this new email thread, you must mention who provided the right person’s contact as a reference.
 And if the lead wants to add someone to the email conversation, there are high chances that the lead himself will add, and you will not be asked to add them.
  
-In [7Targets AI sales assistant](https://7targets.ai/index.html?utm_medium=copy-referencee&utm_source=7targets), you can start following up with the provided reference in just one click. Not only this but the AI sales assistant can read, understand, and also reply to the most generic emails received from the leads.
+In [7Targets AI sales assistant](https://7targets.ai/index.html?utm_medium=copy-reference&utm_source=blog), you can start following up with the provided reference in just one click. Not only this but the AI sales assistant can read, understand, and also reply to the most generic emails received from the leads.
  
 Hope this information helps you to decide whether to copy the person who has provided the reference in the emails or not!
  
