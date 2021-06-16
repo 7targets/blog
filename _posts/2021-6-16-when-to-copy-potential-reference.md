@@ -2,8 +2,8 @@
 layout: post
 title:  "When to copy the Person who Provides Potential Reference? And when NOT to?"
 author: Sanju
-categories: [ Email, Follow up ]
-tags: [Follow up]
+categories: [ Leads, Sales ]
+tags: []
 image: assets/images/referencee.png
 toc: false
 description: "When you get a ‘contact another person’ email, i.e. when a lead provides a potential reference, there is always a question. Whether to cc the lead along with the potential reference in new email thread or not?"
