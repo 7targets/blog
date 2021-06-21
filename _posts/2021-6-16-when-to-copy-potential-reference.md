@@ -9,7 +9,7 @@ toc: false
 description: "When you get a ‘contact another person’ email, i.e. when a lead provides a potential reference, there is always a question. Whether to cc the lead along with the potential reference in new email thread or not?"
 ---
 Salespeople write several emails every day. And the responses from them can be easily categorized. Apart from the usual unsubscribe, send brochure, let’s meet emails, you will also see the occasional ‘contact my colleague’ email.
- 
+
 When you get a ‘contact another person’ email, there is always a question. Should you include the person referred to in the next email or not. Should you start a new conversation thread with the contact provided? 
  
 So let us decide what should be done when we receive such responses with a real example.
