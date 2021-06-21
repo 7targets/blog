@@ -20,7 +20,8 @@ Ok, now lets look at how to generate leads easily.
 ## How to generate leads
 
 #### 1. Search as per your Customer Profile
-You know your customer profile and target location and Industry, so decide and enter **Title, Location, Industry** and **Search in Google.**  
+![image](../assets/images/search-leads.jpeg)  
+You know your Customer Profile, Target location and Industry, so enter **Title, Location, Industry** and click **Search in Google.**  
  
 
 <form >
@@ -43,6 +44,7 @@ function searchInGoogle() {
 We will see how to use this search result to generate your leads.
 
 #### 2. Extract google search result
+![image](../assets/images/lead-extract.jpeg)  
 Note the search result, typically you would get like 30 pages having 10 possible leads per page, so 300 possible leads.  
 There are various ways to extract the result into a CSV or excel. Below are few which can help you with this extraction.  
 
@@ -56,6 +58,7 @@ So it may be better to put 1-2 hours hard work and extract these fields manually
 We will use these fields to extract/generate email for each in below step.
 
 #### 3. Get emails from the extracted results
+![image](../assets/images/generate-lead-email.jpeg)  
 Below I am listing few of those services which provide emails for name and company, there is certainly some limit on number of emails you can get for free.  
 
 You can use one or more of these services to get the leads emails.
@@ -69,7 +72,7 @@ You can use one or more of these services to get the leads emails.
 This is not an exhaustive list. All these have some free trial option you may want to try. Based on your budget you can choose to convert to paid later.
 
 ## Conclusion
- 
+
 Thus, with just 3-4 hours of investment you would easily get like 200-300 leads.  
 Please lets us know if you have more efficient ways or getting the leads, we would be happy to learn.  
  
