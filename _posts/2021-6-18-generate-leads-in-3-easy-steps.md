@@ -30,7 +30,7 @@ You know your Customer Profile, Target location and Industry, so enter **Title, 
 <input type="text" id="designation" placeholder="Type Designation"/> 
 <input type="text" id="location" placeholder="Type Location"/> 
 <input type="text" id="industry" placeholder="Type Industry"/>
-<button onClick="searchInGoogle();">Search in Google</button>
+<button onClick="searchInGoogle();" style="background-color: #00c5a1">Search in Google</button>
 </form>
 <script language="javascript">
 function searchInGoogle() {
