@@ -6,7 +6,7 @@ categories: [ Leads, Sales ]
 tags: []
 image: assets/images/Why are Recruitment companies loving AI sales assistants.jpg
 toc: false
-description: "When you get a ‘contact another person’ email, i.e. when a lead provides a potential reference, there is always a question. Should you cc the lead along with the potential reference in new email thread or not?"
+description: "With an AI sales assistant, Recruitment companies get filtered leads that are already interested, the assistant does all the initial communication, you don’t have to worry about the subject lines and email construction and many more"
 ---
 
 
