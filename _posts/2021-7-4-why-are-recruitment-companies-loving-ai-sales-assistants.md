@@ -108,6 +108,7 @@ Also, you don’t need to figure out the leads you need to ignore. Instead, the 
 
 All you have to do is assign leads to the assistant, and she nurtures them until leads ask for a meeting. And so you can only focus on these potential customers.
 
+[![image](../assets/images/prevent-dropping-leads-cta.jpg)](https://7targets.ai/help/how-to/how-exactly-does-a-salesperson-drop-a-lead/)
 
 ## Is AI sales assistant affordable? When will I get my money back?
 
