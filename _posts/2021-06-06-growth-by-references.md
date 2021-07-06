@@ -11,7 +11,7 @@ description: Growth by reference brings the most loyal clients to the company. T
 # rating: 4.5
 ---
 
-Business Growth is a stage where the business reaches the point for expansion and seeks additional options to generate more profit. Business growth is a function of the business lifecycle, industry growth trends, and the owner's desire for equity value creation. 
+Business Growth is the stage where the business reaches the point for expansion and seeks additional options to generate more profit. Business growth is a function of the business lifecycle, industry growth trends, and the owner's desire for equity value creation. 
 
 Reference is a relationship between person and company in which one person designates, or acts as a means by which to connect to or link to, Business. A business reference is a recommendation provided on behalf of a client, vendor, or other business associate or contact.
 
