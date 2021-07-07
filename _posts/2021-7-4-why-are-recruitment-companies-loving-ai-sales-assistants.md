@@ -9,6 +9,14 @@ toc: false
 description: "With an AI sales assistant, Recruitment companies get filtered leads that are already interested, the assistant does all the initial communication, you don’t have to worry about the subject lines and email construction and many more"
 ---
 
+## Video on 'Why are Recruitment companies loving AI-POWERED sales assistants?'
+
+<div class="video-container">
+    <iframe src="https://www.youtube.com/embed/e03knBau3c4" height="380" width="560" 
+    allow="autoplay; encrypted-media"
+    frameborder="0">
+    </iframe>
+</div>
 
 ## Recruitment companies that are using AI sales assistants:
 
