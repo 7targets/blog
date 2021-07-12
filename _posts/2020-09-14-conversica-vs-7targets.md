@@ -67,7 +67,9 @@ Watch how does AI Sales Assistant remind sales executives and ENSURES that they 
 </div>
 
 ## Pricing
-Pricing would be on everybody mind. 7Targets Assistant comes at 1/10th the cost of a human being. When compared with Conversica, the yearly cost of the 7Targets Assistant is less than Conversica's monthly pricing. 
+Pricing would be on everybody mind. 7Targets Assistant comes at 1/10th the cost of a human being.
+
+![image](../assets/images/cta.jpg)
 
 ## Some other important aspects and features:
 
