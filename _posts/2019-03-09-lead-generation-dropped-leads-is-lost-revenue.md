@@ -38,6 +38,8 @@ We had faced the pain first hand in a big way while we were running our first st
 
 Companies are leaving money on the table by not processing 100% of the leads. Its true that most of the leads are not going to be qualified, and less than 10% of these leads will actually be interested in a meeting. Its important to followup all the leads enough number of times through various channels to ensure that the revenue from these few leads is tapped. These few leads can mean a difference in ROI calculations for events and other marketing activities. These few leads can in some cases mean a lifeline to smaller companies. 
 
+![image](../assets/images/recruitment-companies-6.jpg)
+
 ## How we solved the lead nurturing problem
 
 The need for a smart, energetic assistant who can take all the rejections and still followup leads on all possible channels like LinkedIn, Emails, WhatsApp, SMS is needed to ensure that we get a ‘Interested/Not interested’ from each lead who had visited the booth. Same needs to be done for all other lead sources such as leads gathered from website chatbots, leads who downloaded the best practices white paper from the website, leads who consistently share your posts and more.

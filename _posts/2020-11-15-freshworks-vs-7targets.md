@@ -26,7 +26,7 @@ Below is an honest attempt to compare FreshMarketer and 7Targets AI Sales Assist
 ## Ability to write different emails to each new contact
 Using a “template-based approach” often results in one email getting sent to hundreds of contacts simultaneously at the same time with the same subject line. This is like an invitation to spam engines.
 
-Sakshi, our AI Assistants, works differently. She changes different opening and closing sentences to make emails look like they are written by a human. Sakshi changes subject line combinations based on best practices using a machine learning model. Sakshi learns and remembers the email open time of 1000’s of prospects and adjusts the time of sending subsequent emails to the prospect accordingly. This combination of simulating a human is not present in FreshMarketer, Zoho, Hubspot, or Salesforce. 
+Emma, our AI Assistants, works differently. She changes different opening and closing sentences to make emails look like they are written by a human. Emma changes subject line combinations based on best practices using a machine learning model. Emma learns and remembers the email open time of 1000’s of prospects and adjusts the time of sending subsequent emails to the prospect accordingly. This combination of simulating a human is not present in FreshMarketer, Zoho, Hubspot, or Salesforce. 
 
 Watch 4 Important Automated Responses by AI Sales Assistants (and HOT lead classification).
 
@@ -38,7 +38,7 @@ Watch 4 Important Automated Responses by AI Sales Assistants (and HOT lead class
 </div>
 
 ## Ability for senior execs to simply cc the assistant, as they do with a real assistant
-Senior executives have no time to get into “one more tool” and add a lead. They simply want to cc their assistant so that the assistant goes ahead and follows up a conversation. Similarly, Sakshi can be cc’ed and she will followup with a prospect if he/she does not respond. 
+Senior executives have no time to get into “one more tool” and add a lead. They simply want to cc their assistant so that the assistant goes ahead and follows up a conversation. Similarly, Emma can be cc’ed and she will followup with a prospect if he/she does not respond. 
 
 This cannot be done with Freshmarketer or similar tools. 
 
@@ -50,7 +50,7 @@ If a prospect is out of office for the rest of the week, should an email followu
 
 Many juniors or inside sales team members may not be highly process-oriented. Everyone forgets. When I see the email to contact a prospect after 2 months, I may see it on my mobile while having coffee. Now if I have to remember to get back to my CRM and update the task list once I go back to my desk, most people simply drop the lead. 
 
-Sakshi does not drop any lead. She will auto-reschedule follow ups. A biz-dev person need not get into the picture till a prospect is asking for information that the assistant cannot answer. 
+Emma does not drop any lead. She will auto-reschedule follow ups. A biz-dev person need not get into the picture till a prospect is asking for information that the assistant cannot answer. 
 
 ## Strong sales person Vs Democratization of messaging
 Most teams have a strong salesperson, a few average sales guys, and then a few non-performers who cannot get new meetings. Our Assistants are focused sales/lead nurturing virtual assistants that can be leveraged by your entire team. This democratizes the playing field as far as the initial outreach is concerned. It still allows each salesperson to try his own custom messages. If a custom message works better than an existing message, others can easily adopt that message right away. Instead of waiting for a monthly sales win/loss meeting, sharing why someone won a deal, sales can adopt messaging much faster. 
