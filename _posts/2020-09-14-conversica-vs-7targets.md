@@ -67,7 +67,9 @@ Watch how does AI Sales Assistant remind sales executives and ENSURES that they 
 </div>
 
 ## Pricing
-Pricing would be on everybody mind. 7Targets Assistant comes at 1/10th the cost of a human being. When compared with Conversica, the yearly cost of the 7Targets Assistant is less than Conversica's monthly pricing. 
+Pricing would be on everybody mind. 7Targets Assistant comes at 1/10th the cost of a human being.
+
+![image](../assets/images/Cta.jpg)
 
 ## Some other important aspects and features:
 
@@ -78,15 +80,6 @@ Pricing would be on everybody mind. 7Targets Assistant comes at 1/10th the cost 
 **Engaged and Warm leads:** Getting a list of leads who are engaged and Warm would help the Sales team prioritize on whom to call. There by improving the calling metrics. [Read more](https://help.7targets.com/assigning-leads/lead-responses/#lead-state)
 
 **Notifications:** WhatsApp notifications for the Hot and Warm lead gives the Sales person an opportunity to call the lead instantly. There is good research from best universities and experts in the area which says that if you are able to talk to someone within 5 mins of that person engaged with your content, the chances of further communication increases substantially. 
-
-Watch WhatsApp Business Assistant for sales and lead nurturing 7Targets.
-
-<div class="video-container">
-    <iframe src="https://www.youtube.com/embed/w67lVDntr90" height="380" width="560" 
-    allow="autoplay; encrypted-media"
-    frameborder="0">
-    </iframe>
-</div>
 
 **Intelli upload of Excel File:** One expects the physical Assistant to extract data from an excel file and then write emails. 7Targets AI Sales Assistant tries to provide this functionality. [Read More](https://help.7targets.com/assigning-leads/add-multiple-leads/#add-multiple-leads)
 
