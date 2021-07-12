@@ -69,7 +69,7 @@ Watch how does AI Sales Assistant remind sales executives and ENSURES that they 
 ## Pricing
 Pricing would be on everybody mind. 7Targets Assistant comes at 1/10th the cost of a human being.
 
-![image](../assets/images/cta.jpg)
+![image](../assets/images/Cta.jpg)
 
 ## Some other important aspects and features:
 
