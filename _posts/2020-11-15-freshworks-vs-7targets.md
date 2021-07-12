@@ -90,12 +90,6 @@ The focus of the assistant is to screen out prospects where humans should not sp
 ## WhatsApp Notifications on hot leads, warm leads
 WhatsApp notifications for the Hot and Warm lead gives the Salesperson an opportunity to call the lead instantly. There is good research from the best universities and experts in the area which says that if you are able to talk to someone within 5 mins of that person engaged with your content, the chances of further communication increases substantially.
 
-<div class="video-container">
-    <iframe src="https://www.youtube.com/embed/w67lVDntr90" height="380" width="560" 
-    allow="autoplay; encrypted-media"
-    frameborder="0">
-    </iframe>
-</div>
 
 ## Intelli import 
 All tools today force you to adopt a particular format and then upload data. Marketing and sales guys are not software engineers. Simple looking tasks can be difficult. Although this feature is in beta right now, 7Targets focus is to make end users’ life easy so that he simply drags and drops the XL with one lead per row, and the assistant automatically picks up names and email addresses. [Read more](https://help.7targets.com/assigning-leads/add-multiple-leads/#add-multiple-leads)

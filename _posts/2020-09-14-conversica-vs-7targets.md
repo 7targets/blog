@@ -81,15 +81,6 @@ Pricing would be on everybody mind. 7Targets Assistant comes at 1/10th the cost 
 
 **Notifications:** WhatsApp notifications for the Hot and Warm lead gives the Sales person an opportunity to call the lead instantly. There is good research from best universities and experts in the area which says that if you are able to talk to someone within 5 mins of that person engaged with your content, the chances of further communication increases substantially. 
 
-Watch WhatsApp Business Assistant for sales and lead nurturing 7Targets.
-
-<div class="video-container">
-    <iframe src="https://www.youtube.com/embed/w67lVDntr90" height="380" width="560" 
-    allow="autoplay; encrypted-media"
-    frameborder="0">
-    </iframe>
-</div>
-
 **Intelli upload of Excel File:** One expects the physical Assistant to extract data from an excel file and then write emails. 7Targets AI Sales Assistant tries to provide this functionality. [Read More](https://help.7targets.com/assigning-leads/add-multiple-leads/#add-multiple-leads)
 
 ## Conclusion
