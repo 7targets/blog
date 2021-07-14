@@ -11,11 +11,11 @@ description: Growth by reference brings the most loyal clients to the company. T
 # rating: 4.5
 ---
 
-Business Growth is a stage where the business reaches the point for expansion and seeks additional options to generate more profit. Business growth is a function of the business lifecycle, industry growth trends, and the owner's desire for equity value creation. 
+Business Growth is the stage where the business reaches the point for expansion and seeks additional options to generate more profit. Business growth is a function of the business lifecycle, industry growth trends, and the owner's desire for equity value creation. 
 
 Reference is a relationship between person and company in which one person designates, or acts as a means by which to connect to or link to, Business. A business reference is a recommendation provided on behalf of a client, vendor, or other business associate or contact.
 
-But why a lead is going to give your company's references? 
+But why is a lead is going to give your company's references? 
 
 ## Delight, show value (10x)
 
@@ -27,13 +27,13 @@ Customer delight is surprising a customer by exceeding his or her expectations a
 
 ![image](../assets/images/Growth-delight.jpg)
 
-Great customer service means following best practices like valuing customers' time, having a pleasant attitude, and providing knowledgeable and resourceful resources. If the client is having trouble using your software, just don't stop there. Make sure that the problem is solved and customers get the full experience of using your software.
+Great customer service means following best practices like valuing customers time, having a pleasant attitude, and providing knowledgeable and resourceful resources. If the client is having trouble using your software, just don't ignore the point where your product is lacking behind. Make sure that the problem is solved and customers get the full experience of using your software.
 
-## Be clear about where you're not expert
+## Be clear about where you're not an expert
 
 ![image](../assets/images/Growth-stress.jpg)
 
-If you're not an expert on something, do not try to take that task. Only when you're super strong or comfortable handling the project then you'll end up delighting the person you're working with.
+If you're not an expert on something, do not try to take that project. Only when you're super strong or comfortable handling the projects, then you'll end up delighting the person you're working with.
 
 Sometimes accepting more projects results in wrong functionality which doesn't last long and creates a bad reputation.
 
@@ -43,15 +43,15 @@ Sometimes accepting more projects results in wrong functionality which doesn't l
 
 Visualize and manage all the information about your points of sale and surrounding environment to identify gaps in the network where you should be selling your products.
 
-Never make network growth your goal. It's more like a side effect. It may not contribute to results so all you need is to research and act.
+Never make network growth your goal. It's more like a side effect. It may not contribute to results, so all you need is to research and then act.
 
 ## Kind Acts
 
-![image](../assets/images/Kind-action.jpeg)
+![image](../assets/images/kind-action-1.jpg)
 
 Some people have a personal goal to perform an act of kindness every day to one person as they feel grateful for what they have and love to help others if it's needed. 
 
-Always show through actions and contribute equally to your colleague's success. Be there to help others if possible try to attend their functions and invest more in them. 
+Always show through actions and contribute equally to your colleague's success. Be there to help others, if possible, try to attend their functions and invest more in them.
 
 This will reflect a good personality and will create a great impression regarding your work and company.
 
