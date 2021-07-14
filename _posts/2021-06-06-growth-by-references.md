@@ -47,7 +47,7 @@ Never make network growth your goal. It's more like a side effect. It may not co
 
 ## Kind Acts
 
-![image](../assets/images/Kind-action-1.jpg)
+![image](../assets/images/kind-action-1.jpg)
 
 Some people have a personal goal to perform an act of kindness every day to one person as they feel grateful for what they have and love to help others if it's needed. 
 
