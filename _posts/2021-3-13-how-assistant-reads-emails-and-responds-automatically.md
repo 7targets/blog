@@ -4,7 +4,7 @@ title:  "How Assistant Reads Emails and Responds Automatically"
 author: Sanju
 categories: [ Sales, AI, Leads]
 tags: [AI, Sales, Leads, Reads, Responds, Out of Office, Deactivate, Unsubscribe, Follow-up]
-image: assets/images/AI-sales-Assistant-Reads-Emails-and-Responds-Automatically.png
+image: assets/images/AI-sales-Assistant-Reads-Emails-and-Responds-Automatically.jpg
 # beforetoc: "Prism highlighter is a very powerful thing."
 # toc: true
 description: "How the assistant reads the emails and responds to them automatically in repetitive scenarios."
