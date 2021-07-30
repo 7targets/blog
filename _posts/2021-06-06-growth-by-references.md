@@ -11,48 +11,34 @@ description: Growth by reference brings the most loyal clients to the company. T
 # rating: 4.5
 ---
 
-Business Growth is the stage where the business reaches the point for expansion and seeks additional options to generate more profit. Business growth is a function of the business lifecycle, industry growth trends, and the owner's desire for equity value creation. 
+Growth by Reference is a dream for many organizations. How to get your users to refer someone else to use your product? Why does someone refer a product even when there is no money involved for him/her?
+What is at stake from a users perspective? 
 
-Reference is a relationship between person and company in which one person designates, or acts as a means by which to connect to or link to, Business. A business reference is a recommendation provided on behalf of a client, vendor, or other business associate or contact.
-
-But why is a lead is going to give your company's references? 
-
-## Delight, show value (10x)
+## Delight, show 10x value
 
 ![image](../assets/images/Growth-customer.jpg)
 
-Customer delight is surprising a customer by exceeding his or her expectations and thus creating a positive emotional reaction. Customer delight directly affects the sales and profitability of a company as it helps to distinguish the company and its products and services from the competition.
+Customer delight is the #1 reason of why someone refers others potential leads to you. Whenever you exceed customers expectation, it creates a positive emotional reaction. Customer delight makes users remember your product. Meeting expectations does not yield in customer delight. Think about showcasing results in a more delightful way. Recommending some steps accurately Vs user typing the same steps can also delight a user as he experiences the intelligence of the software.
 
 ## Amazing customer support
 
 ![image](../assets/images/Growth-delight.jpg)
 
-Great customer service means following best practices like valuing customers time, having a pleasant attitude, and providing knowledgeable and resourceful resources. If the client is having trouble using your software, just don't ignore the point where your product is lacking behind. Make sure that the problem is solved and customers get the full experience of using your software.
+Great customer service means following best practices like valuing customers time, having a pleasant attitude, sharing the excitement that you have towards solving a problem and providing knowledgeable insights. If the client is having trouble using your software, just don't ignore the point where your product is lacking. Make sure that the problem is acknowledged first and then look into solving it. Customers get the full experience of using your software if your support also provides tips on whats new, how others are deriving value, along with solving existing problem at hand. 
 
 ## Be clear about where you're not an expert
 
 ![image](../assets/images/Growth-stress.jpg)
 
-If you're not an expert on something, do not try to take that project. Only when you're super strong or comfortable handling the projects, then you'll end up delighting the person you're working with.
+If you're not an expert on something, do not try to own that issue. Only when you're super strong or comfortable handling the issue, then you'll end up delighting the person you're working with. Set right expectations if you are not an expert. Get back to someone by getting an expert to solve the issue as you remain the point of contact while issue is getting solved. Dont have the user repeat the problem to numerous other people. 
 
-Sometimes accepting more projects results in wrong functionality which doesn't last long and creates a bad reputation.
+Trying to solve issues outside your expertise often results in a bad reputation.
 
-## Network Growth (Side effect)
+## Network Growth is side effect, not a focused goal
 
 ![image](../assets/images/Growth-networking.jpg)
 
-Visualize and manage all the information about your points of sale and surrounding environment to identify gaps in the network where you should be selling your products.
-
-Never make network growth your goal. It's more like a side effect. It may not contribute to results, so all you need is to research and then act.
-
-## Kind Acts
-
-![image](../assets/images/kind-action-1.jpg)
-
-Some people have a personal goal to perform an act of kindness every day to one person as they feel grateful for what they have and love to help others if it's needed. 
-
-Always show through actions and contribute equally to your colleague's success. Be there to help others, if possible, try to attend their functions and invest more in them.
-
-This will reflect a good personality and will create a great impression regarding your work and company.
+Never make network growth your goal. It's more like a side effect. If you grow your network forcefully, the quality of your network will be poor. If network growth is a result of your good work, the quality of your network will be high, outcome of your network will be immense.
+Kind actions create long term relationships. Helpful intent is key. The more you come across as a salesperson, the less you will sell. 
 
 Hope this helps you. You can drop an email to info@7targets.com if any questions.
