@@ -90,7 +90,8 @@ If a salesperson gets a question from a lead and does not respond within 24 hour
     - Creates a <b>healthy sales pipeline</b> for you<br>
     - Gets you <b>double response</b> with targeted nurturing </span>
     <br>
- <a href="https://7targets.ai/sign-up.html?utm_medium=img-cta&utm_source=blog"> <img src="../assets/images/cta-button.png" class="img-center"></a></td>
+ <a href="https://7targets.ai/sign-up.html?utm_medium=img-cta&utm_source=blog" style="
+    margin: 60px;"> <img src="../assets/images/cta-button.png" class="img-center"></a></td>
  </tr>
 </table> 
 
