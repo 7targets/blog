@@ -10,7 +10,7 @@ image: assets/images/features-of-best-ai-sales-assistant-softwares.jpg
 description: "The features of the AI sales assistant that you’ll never have to worry about the lead leak, it saves you a lot of time spent on the cold leads, you can always make decisions based on accurate metrics provided by the software, and never lets any of your potential customers fall through the cracks."
 # rating: 4.5
 ---
-Sales involve the art of selling and offering. Although this is an art, there are quite a few mechanical, repetitive aspects to sales. Even though the tasks are repetitive, missing them can significantly affect the sales pipeline. For example, if you do not regularly clean up your email list, your account will get blocked, and your outreach will be severely affected.
+We all know, Sales is an art. Although this is an art, there are quite a few mechanical, repetitive aspects to sales. Even though the tasks are repetitive, missing them can significantly affect the sales pipeline. For example, if you do not regularly clean up your email list, your account will get blocked, and your outreach will be severely affected.
 
 Here are some of the top repetitive and mandatory tasks that are significant to keep your sales pipeline healthy: 
 
