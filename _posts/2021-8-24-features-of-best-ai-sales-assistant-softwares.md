@@ -85,11 +85,11 @@ If a salesperson gets a question from a lead and does not respond within 24 hour
 <table style="background-color: white" border="0"  >
  <tr >
     <td class="not-on-mobile" ><img src="../assets/images/Ai-assistant.png" ></td>
-    <td style="padding: 20px;"> <h5>Get Your Own AI Assistant to Drive Your Sales Pipeline and <b><span style="color: #ff7a59;">Double</span> Your Meetings</b></h5>
+    <td style="padding: 30px;"> <h5>Get Your Own AI Assistant to Drive Your Sales Pipeline and <b><span style="color: #ff7a59;">Double</span> Your Meetings</b></h5>
     <span style="font-size: 14px;">- Gets you more <b>engaged & converted leads</b><br>
     - Creates a <b>healthy sales pipeline</b> for you<br>
     - Gets you <b>double response</b> with targeted nurturing </span>
-    <br>
+    <br><br>
  <a href="https://7targets.ai/sign-up.html?utm_medium=img-cta&utm_source=blog" style="
     margin: 60px;"> <img src="../assets/images/cta-button.png" class="img-center"></a></td>
  </tr>
