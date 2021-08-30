@@ -82,6 +82,7 @@ Coordination between prospects and sales reps is very important. Management gene
 
 If a salesperson gets a question from a lead and does not respond within 24 hours, the assistant will remind the salesperson to follow up. We are all busy. And are interrupted again and again. Here, the AI Assistants help us not to drop the ball. 
 
+
 <table style="background-color: white;" border="0"  >
  <tr>
     <td class="not-on-mobile"><img src="../assets/images/Ai-assistant.png" style="max-width: inherit;"></td>
