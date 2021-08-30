@@ -65,7 +65,26 @@ Assistants can prevent many 'bad days'. Even when new salespersons and marketing
 
 ## 5. Template-based emails Vs Dynamically generated emails. And the impact on spam
 
-Template-based emailing software results in spam since you end up sending the same template to many people simultaneously. The AI Assistants create a different email per person using Natural language generation, simulating human emails. This keeps you away from spamming issues as far as possible. And takes the open rate through the roof. 
+Template-based emailing software results in spam since you end up sending the same template to many people simultaneously. The AI Assistants create a different email per person using Natural language generation, simulating human emails. This keeps you away from spamming issues as far as possible. And takes the open rate through the roof.
+
+<table style="background-color: white;" border="0"  >
+ <tr>
+    <td class="not-on-mobile"><img src="../assets/images/Ai-assistant.jpg" style="max-width: inherit;"></td>
+    <td style="padding: 30px;"> <h5>Get Your Own AI Assistant to Drive Your Sales Pipeline and <b><span style="color: #28d497;">Double</span> Your Meetings</b></h5>
+    <span style="font-size: 18px;">- Gets you more <b>engaged & converted leads</b><br>
+    - Creates a <b>healthy sales pipeline</b> for you<br>
+    - Gets you <b>double response</b> with targeted nurturing </span>
+    <br>
+    </td>
+ </tr>
+</table> 
+<table style="background-color: white;margin-bottom: 30px;" border="0"  >
+ <tr>
+    <span>
+    <a href="https://7targets.ai/sign-up.html?utm_medium=15-features-img-cta&utm_source=blog"> <img src="../assets/images/cta-button.png" class="img-center"></a>
+    </span>
+ </tr>
+</table>
 
 
 ## 6. Subject line expertise. With AI Scores for each subject line
@@ -82,25 +101,6 @@ Coordination between prospects and sales reps is very important. Management gene
 
 If a salesperson gets a question from a lead and does not respond within 24 hours, the assistant will remind the salesperson to follow up. We are all busy. And are interrupted again and again. Here, the AI Assistants help us not to drop the ball. 
 
-
-<table style="background-color: white;" border="0"  >
- <tr>
-    <td class="not-on-mobile"><img src="../assets/images/Ai-assistant.png" style="max-width: inherit;"></td>
-    <td style="padding: 30px;"> <h5>Get Your Own AI Assistant to Drive Your Sales Pipeline and <b><span style="color: #ff7a59;">Double</span> Your Meetings</b></h5>
-    <span style="font-size: 18px;">- Gets you more <b>engaged & converted leads</b><br>
-    - Creates a <b>healthy sales pipeline</b> for you<br>
-    - Gets you <b>double response</b> with targeted nurturing </span>
-    <br>
-    </td>
- </tr>
-</table> 
-<table style="background-color: white;margin-bottom: 30px;" border="0"  >
- <tr>
-    <span>
-    <a href="https://7targets.ai/sign-up.html?utm_medium=15-features-img-cta&utm_source=blog"> <img src="../assets/images/cta-button.png" class="img-center"></a>
-    </span>
- </tr>
-</table>
 
 ## 9. Cc your assistant, no need to log in just to add a lead. Smart interface for senior execs!
 
