@@ -4,7 +4,7 @@ title:  "What is AI Sales Assistant Software? Do I need it?"
 author: Sanju
 categories: [ Sales, AI, Leads]
 tags: [AI, Sales, Leads, Follow-up]
-image: assets/images/features-of-best-ai-sales-assistant-softwares.jpg
+image: assets/images/ai-sales-assistant-1.jpg
 # beforetoc: "Prism highlighter is a very powerful thing."
 # toc: true
 description: "AI sales assistants or virtual sales assistants, are softwares to help automate the sales processes using artificial intelligence. These AI sales tools help sales reps in mundane and routine tasks such as lead nurturing, email clean ups, updating CRMs, replying to generic emails from leads etc.
@@ -162,15 +162,15 @@ Sometimes leads forget to respond, even if the salesperson has responded to the 
 
 Sales Reps forget to follow up on such leads because they had *already responded* to the lead.
 
-If Lead drops the ball, the assistant will remind
 
-**If Lead drops the ball, the assistant will remind**
+- **If Lead drops the ball, the assistant will remind**
 
 ![image](../assets/images/ai-sales-assistant-11.png)
 
-**If your SalesRep drops the ball, the assistant will help**
+- **If your SalesRep drops the ball, the assistant will help**
 
 ![image](../assets/images/ai-sales-assistant-12.png)
+
 
 Here, the AI Assistants smartly pick up such threads and automatically start reminding the lead to respond.
 
@@ -205,13 +205,13 @@ This time can be directed towards closing deals.
 
 It spares you from:
 
-replying to all the administrative responses, 
+- replying to all the administrative responses, 
 
-creates a healthy sales pipeline, 
+- creates a healthy sales pipeline, 
 
-you can always make decisions based on accurate metrics, 
+- you can always make decisions based on accurate metrics, 
 
-and most importantly, never let any of your potential customers fall through the cracks, ever!
+- and most importantly, never let any of your potential customers fall through the cracks, ever!
 
 You can find these and many more features in the **7Targets AI sales assistant**. Feel free to sign-up here for for [14 days for free](https://7targets.ai/sign-up.html?utm_medium=what-is-ai-assistant&utm_source=7tsblogs) and give it a try and experience how an AI assistant can save your valuable time!
 
