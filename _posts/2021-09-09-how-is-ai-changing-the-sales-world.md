@@ -20,6 +20,7 @@ There are many AI sales assistant softwares and not all softwares are equal. If 
 # rating: 4.5
 ---
 I will share my experience with the AI sales assistant in my sales department, and then we can conclude if you need one!
+
 Initially, my sales team used to do all the work manually.
 
 ![image](../assets/images/ai-sales-assistant-2.jpg) 
