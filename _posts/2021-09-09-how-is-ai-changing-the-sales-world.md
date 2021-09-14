@@ -214,7 +214,7 @@ It spares you from:
 
 - and most importantly, never let any of your potential customers fall through the cracks, ever!
 
-You can find these and many more features in the **7Targets AI sales assistant**. Feel free to sign-up here for for [14 days for free](https://7targets.ai/sign-up.html?utm_medium=what-is-ai-assistant&utm_source=7tsblogs) and give it a try and experience how an AI assistant can save your valuable time!
+You can find these and many more features in the **7Targets AI sales assistant**. Feel free to [sign-up here for 14 days free trial](https://7targets.ai/sign-up.html?utm_medium=what-is-ai-assistant&utm_source=7tsblogs) and give it a try and experience how an AI assistant can save your valuable time!
 
 
 
