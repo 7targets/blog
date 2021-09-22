@@ -4,7 +4,7 @@ title:  "Comparison between 7Targets and Saleswhale"
 author: Sanju
 categories: [ Sales, AI, Leads]
 tags: [AI, Sales, Leads, Follow-up, 7Targets, Saleswhale, features, comparision]
-image: assets/images/Comparision-between-7Targets-saleswhale-2.png
+image: assets/images/Comparision-between-7targets-saleswhale1.jpg
 # beforetoc: "Prism highlighter is a very powerful thing."
 # toc: true
 description: Using AI  assistant is an emerging trend in marketing as they engage lead and prevent lead from dropping. 
@@ -15,7 +15,7 @@ Today we are providing a comparison chart which will give you an idea about the 
 ## Comparison between 7Targets and saleswhale
 
 
-![image](../assets/images/Comparision-between-7targets-saleswhale-1.png) 
+![image](../assets/images/Comaprison-7targets-saleswhale2.jpg) 
 
 
 
