@@ -15,7 +15,7 @@ Today we are providing a comparison chart which will give you an idea about the 
 ## Comparison between 7Targets and Saleswhale
 
 
-![image](../assets/images/Comaprison-7targets-saleswhale2.jpg) 
+![image](../assets/images/Comparison-7targets-saleswhale2.jpg) 
 
 
 
