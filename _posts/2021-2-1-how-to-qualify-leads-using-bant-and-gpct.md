@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "How to Qualify Leads using BANT and GPCT?"
+title:  "What is GPCT? How to Qualify Leads using BANT and GPCT?"
 author: Sanju
 categories: [ Sales, AI, Leads]
 tags: [AI, Sales, Leads, Closing a deal]
