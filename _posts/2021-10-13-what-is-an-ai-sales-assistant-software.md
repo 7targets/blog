@@ -6,7 +6,7 @@ categories: [ Sales, AI, Leads]
 tags: [AI, Sales, Leads, Follow-up]
 image: assets/images/ai-sales-assistant-1.jpg
 # beforetoc: "Prism highlighter is a very powerful thing."
-# toc: true
+toc: true
 description: "AI sales assistants or virtual sales assistants, are softwares that to help automate the sales processes using artificial intelligence. AI in sales help sales reps in mundane and routine tasks such as lead nurturing, email clean ups, updating CRMs, replying to the initial generic emails from leads etc.
 
 AI sales assistants save sales reps a lot of time from the routine work so they can focus on meetings with leads and closing the deal.
