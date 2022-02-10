@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "15 Features of Best AI Sales Assistant Softwares"
+title:  "Did you know these 15 features of AI Sales Assistants?"
 author: Sanju
 categories: [ Sales, AI, Leads]
 tags: [AI, Sales, Leads, Follow-up]
@@ -69,7 +69,7 @@ Template-based emailing software results in spam since you end up sending the sa
 
 <table style="background-color: white;" border="0"  >
  <tr>
-    <td class="not-on-mobile"><img src="../assets/images/Ai-assistant.jpg" style="max-width: inherit;"></td>
+    <td class="not-on-mobile"><img src="../assets/images/demo-cta-image-2.jpg" style="max-width: inherit;"></td>
     <td style="padding: 30px;"> <h5>Get Your Own AI Assistant to Drive Your Sales Pipeline and <b><span style="color: #28d497;">Double</span> Your Meetings</b></h5>
     <span style="font-size: 18px;">- Gets you more <b>engaged & converted leads</b><br>
     - Creates a <b>healthy sales pipeline</b> for you<br>
@@ -81,7 +81,7 @@ Template-based emailing software results in spam since you end up sending the sa
 <table style="background-color: white;margin-bottom: 30px;" border="0"  >
  <tr>
     <span>
-    <a href="https://7targets.ai/sign-up.html?utm_medium=15-features-img-cta&utm_source=blog"> <img src="../assets/images/cta-button.png" class="img-center"></a>
+    <a href="https://calendly.com/sanjuburkule/demo-7targets-ai-sales-assistant.html?utm_medium=15-features-img-cta&utm_source=blog"> <img src="../assets/images/book-a-demo-cta.png" class="img-center"></a>
     </span>
  </tr>
 </table>
@@ -100,6 +100,25 @@ Coordination between prospects and sales reps is very important. Management gene
 ## 8. Prevent warm leads from getting into a risky situation of getting cold again
 
 If a salesperson gets a question from a lead and does not respond within 24 hours, the assistant will remind the salesperson to follow up. We are all busy. And are interrupted again and again. Here, the AI Assistants help us not to drop the ball. 
+
+<table style="background-color: white;" border="0"  >
+ <tr>
+    <td class="not-on-mobile"><img src="../assets/images/Ai-assistant.jpg" style="max-width: inherit;"></td>
+    <td style="padding: 30px;"> <h5>Get Your Own AI Assistant to Drive Your Sales Pipeline and <b><span style="color: #28d497;">Double</span> Your Meetings</b></h5>
+    <span style="font-size: 18px;">- Gets you more <b>engaged & converted leads</b><br>
+    - Creates a <b>healthy sales pipeline</b> for you<br>
+    - Gets you <b>double response</b> with targeted nurturing </span>
+    <br>
+    </td>
+ </tr>
+</table> 
+<table style="background-color: white;margin-bottom: 30px;" border="0"  >
+ <tr>
+    <span>
+    <a href="https://7targets.ai/sign-up.html?utm_medium=15-features-img-cta&utm_source=blog"> <img src="../assets/images/cta-button.png" class="img-center"></a>
+    </span>
+ </tr>
+</table>
 
 
 ## 9. Cc your assistant, no need to log in just to add a lead. Smart interface for senior execs!
@@ -134,6 +153,26 @@ AI Sales Assistants help you to find open positions advertised in a target accou
 ## 14. B2B webinar announcement broadcasting
 
 You arranged a new webinar on the fly and want to send quick invitations to all contacts? We recommend going for creating Linkedin event pages for this activity. Linkedin allows inviting 1000 contacts per week (at the time of writing). Although AI sales Assistant software also helps to broadcast your email invitations to all existing contacts who have not deactivated or unsubscribed you. 
+
+<table style="background-color: white;" border="0"  >
+ <tr>
+    <td class="not-on-mobile"><img src="../assets/images/demo-cta-image-1.jpg" style="max-width: inherit;"></td>
+    <td style="padding: 30px;"> <h5>Get Your Own AI Assistant to Drive Your Sales Pipeline and <b><span style="color: #28d497;">Double</span> Your Meetings</b></h5>
+    <span style="font-size: 18px;">- Gets you more <b>engaged & converted leads</b><br>
+    - Creates a <b>healthy sales pipeline</b> for you<br>
+    - Gets you <b>double response</b> with targeted nurturing </span>
+    <br>
+    </td>
+ </tr>
+</table> 
+<table style="background-color: white;margin-bottom: 30px;" border="0"  >
+ <tr>
+    <span>
+    <a href="https://calendly.com/sanjuburkule/demo-7targets-ai-sales-assistant.html?utm_medium=15-features-img-cta&utm_source=blog"> <img src="../assets/images/book-a-demo-cta.png" class="img-center"></a>
+    </span>
+ </tr>
+</table>
+
 
 ## 15. Super smart usage of out of office emails, use good phone numbers from ooo emails instead of boardline call numbers
 
