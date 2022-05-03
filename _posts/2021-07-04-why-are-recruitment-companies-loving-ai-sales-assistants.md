@@ -159,4 +159,4 @@ To sum up, with an AI sales assistant,
 - assistant follows up at proper intervals and with relevant success stories with each lead
 - and many more
 
-As you saw that already many recruitment companies, big, small, old, new, have incorporated AI in sales and are loving it, do [give it a try for 14 days for free](https://7targets.ai/sign-up.html?utm_medium=rcrtmnt-companies-love-ai&utm_source=7tsblogs) and get a feel of having an AI sales assistant in your sales department.
+As you saw that already many recruitment companies, big, small, old, new, have incorporated AI in sales and are loving it, do [give it a try for 7 days for free](https://7targets.ai/sign-up.html?utm_medium=rcrtmnt-companies-love-ai&utm_source=7tsblogs) and get a feel of having an AI sales assistant in your sales department.
