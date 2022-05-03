@@ -204,7 +204,7 @@ You’ll never have to worry about the lead leak, it saves you a lot of time spe
     </iframe>
 </div>
 
-I suggest you tap your feet into the AI sales tools and get some of this excitement working for you. Do give it a [try for 14 days for free](https://7targets.ai/sign-up.html?utm_medium=15-features&utm_source=7tsblogs) and get a feel of having an AI sales assistant in your sales department.
+I suggest you tap your feet into the AI sales tools and get some of this excitement working for you. Do give it a [try for 7 days for free](https://7targets.ai/sign-up.html?utm_medium=15-features&utm_source=7tsblogs) and get a feel of having an AI sales assistant in your sales department.
 
 
 [![image](../assets/images/Sign-up-for-Free-Trial.png)](https://7targets.ai/sign-up.html?utm_medium=15-features&utm_source=7tsblogs)
