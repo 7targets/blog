@@ -93,6 +93,6 @@ Without 7Targets assistants, human sales would have to go to a CRM or a calendar
 
 To sum up, by introducing an AI assistant into your sales pipeline and handing over the responsibility of all the initial conversations to the AI Assistant - till the leads are classified as HOT -  can save you a lot of time. This time can be directed towards closing deals. It spares you from replying to all the administrative responses, creates a healthy sales pipeline, you can always make decisions based on accurate metrics, and most importantly, never lets any of your potential customers fall through the cracks, ever!
 
-Feel free to try out the 14 days free trial of our AI assistant and see how it can be beneficial for your business!
+Feel free to try out the 7 days free trial of our AI assistant and see how it can be beneficial for your business!
 
 [![image](../assets/images/Sign-up-for-Free-Trial.png)](https://7targets.ai/sign-up.html)

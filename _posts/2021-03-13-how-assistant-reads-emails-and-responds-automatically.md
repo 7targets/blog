@@ -82,5 +82,5 @@ Call back later: Some leads say 'Let's connect back after 2 months', 'Let’s co
 
 7Targets assistants are not very intelligent and cannot handle many domain specific questions for you, but they surely save a huge amount of time in screening out administrative responses in a disciplined and consistent manner.
 
-Feel free to [sign-up](https://7targets.ai/sign-up.html?utm_medium=how-assistant-reads-responds-automatically&utm_source=7tsblogs) here for 14 days Free Trial and give it a try and experience how an AI assistant can save your valuable time!
+Feel free to [sign-up](https://7targets.ai/sign-up.html?utm_medium=how-assistant-reads-responds-automatically&utm_source=7tsblogs) here for 7 days Free Trial and give it a try and experience how an AI assistant can save your valuable time!
 
