@@ -29,7 +29,9 @@ Confused? [Book a free consultation call with us](https://calendly.com/sanjuburk
 
 We have researched the market and compared the CAIPs as per capabilities to make the following list of 10 best alternatives to Conversica, which is a popular one.
 
-## 1. 7Targets AI Assistants
+## 1. 7Targets AI Assistants 
+
+![image](../assets/images/7ts-logo.png)
 
 [7Targets](https://7targets.ai/cc-assistant-for-email-followup.html) is one of the best alternatives to Conversica and the AI assistants intelligently extract and take  ownership of all leads. It uploads excel files with Facebook leads, website leads, and event leads to your CRM.
 
@@ -52,6 +54,8 @@ Interested? [Get your 7 days Free Trial.](https://7targets.ai/emailcc-signup.htm
 
 ## 2. Verse.io
 
+![image](../assets/images/verse-logo.png)
+
 The Verse uses AI-driven and human-powered conversations to transform your leads into opportunities. Responding to leads and following up for lead nurturing are two major tasks of Verse. The multi-faceted lead response of Verse increases the lead conversion rate.
 
 The Verse has recently developed a formula to decrease time spent transferring through subpar online leads. It helps the sales team with more time to focus on serious prospects and accelerate their conversion rate. 
@@ -63,6 +67,7 @@ Verse offers a perfect blend of automation and human touch to vet every lead tho
 The Verse assistant hands off the qualified lead to the sales team through live transfer or booked appointments. It just works as a smart extension of your team. 
 
 ## 3. Saleswhale
+
 <br>
 
 ![image](../assets/images/Comparison-7targets-saleswhale2.jpg)
@@ -119,6 +124,8 @@ You can also A/B test your messages before sending them to the prospects. With e
 
 ## 6. Salesrep.ai
 
+![image](../assets/images/salesrep-logo.png)
+
 Sales Rep AI sales assistant works closely with you to set up sequences based on your sales cycle. If you have never spoken to any lead also, this assistant creates the right sequence of steps.
 
 In case you are following up from an old sales call and a separate one has started, you can add any kind of follow up process in the workflow of the assistant.
@@ -132,6 +139,8 @@ The built-in AI can act as per the behavior of the leads. For example, it can po
 Integrating the assistant with your CRM, the assistant keeps a track of every single lead in the CRM and sends notifications whenever the leads need your attention. 
 
 ## 7. Drift
+
+![image](../assets/images/drift-logo.png)
 
 Drift offers a live chat platform that helps you generate and qualify leads. Also, it sets meetings and is easy to integrate with your CRM platform.
 
@@ -147,6 +156,8 @@ In addition, you can view the productivity of your agent on Drift’s dashboard.
 
 ## 8. Snov.io
 
+![image](../assets/images/snov-logo.png)
+
 Snov AI sales assistants help you reach your prospects with personalized campaigns with a high engagement rate. This virtual sales assistant helps you speed up your cold outreach and nurture your leads like a human.
 
 In addition, you can schedule campaigns for your existing customers. The AI sales assistant also automatically follows up and tracks your email engagement from your Gmail inbox.
@@ -155,6 +166,8 @@ With 2000+ integration, Snov ensures you connect data for better efficiency and 
 You can connect your account to your CRM and all your marketing apps and productivity tools.
 
 ## 9. Veloxy
+
+![image](../assets/images/veloxy-logo.png)
 
 Veloxy enables you to sell from your cell phones. And the virtual sales assistant lifts a heavy Salesforce load for you. It logs into Salesforce activity on auto-pilot. 
 
