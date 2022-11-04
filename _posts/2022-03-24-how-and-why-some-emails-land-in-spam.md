@@ -40,8 +40,13 @@ But here too they would have to use some email service. If not AWS SES or Sendgr
 
 Similar IP farm scenario will appear there too. 
 
+## Email Receiving Server processing
+Every email received by the email receiving server has it own rules and logic to mark the email as Spam. These Spam engines are complex and continue to evolve over time and is completely out of the control of the email sender. 
+
+Only thing the sender can make sure is to send legitimate and personal emails. Which the sender really would open and read. 
+
 ## So what do I do then 
-Control the controllable. 
+**Control the controllable.**   
 
 Check your Email subject line SPAM score is 90+. Check your email body also has no issues like wrong links, big attachments. 
 
