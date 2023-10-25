@@ -1,13 +1,13 @@
 ---
 layout: post
-title:  "AI Assistant engages leads and updates Salesforce automatically"
+title:  "Double the power of Salesforce with 7Targets"
 author: Sanju
 categories: [ Sales, AI, Salesforce ]
 tags: [AI, Sales]
 image: assets/images/7targets-integration-salesforce.png
 # beforetoc: "Prism highlighter is a very powerful thing."
 # toc: true
-description: "How AI Assistant engages leads and updates Salesforce automatically and its advantages."
+description: "Double the power of Salesforce with 7Targets. How AI Assistant engages leads and updates Salesforce automatically and its advantages."
 # rating: 4.5
 ---
 ## Video on How 7Target's AI Assistant owns and nurtures the lead from Salesforce 
