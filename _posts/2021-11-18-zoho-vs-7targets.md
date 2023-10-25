@@ -1,13 +1,13 @@
 ---
 layout: post
-title:  "Zoho vs 7Targets"
+title:  "Double the power of ZOHO with 7Targets"
 author: Sanju
 categories: [ Sales, Comparison ]
 tags: [AI, Sales]
 image: assets/images/zoho-vs-7targets.jpg
 # beforetoc: "Prism highlighter is a very powerful thing."
 # toc: true
-description: "Comparison between Zoho and 7Targets AI Sales Assistant as Zoho alternative. One honest comparison attempt. "
+description: "Double the power of ZOHO with 7Targets. Comparison between Zoho and 7Targets AI Sales Assistant as Zoho alternative. One honest comparison attempt. "
 # rating: 4.5
 ---
 AI Sales Assistant or Virtual SDR are helping to get the consistency and reliability in the Sales process. AI Sales Assistant market is growing and each product is taking its perspective to provide value for their customer. Below are some important expectations one has from the AI Sales Assistant.

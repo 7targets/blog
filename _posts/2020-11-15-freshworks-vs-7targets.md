@@ -1,13 +1,13 @@
 ---
 layout: post
-title:  "Freshworks vs 7Targets"
+title:  "Double the power of Freshworks with 7Targets"
 author: Sanju
 categories: [ Sales, Comparison ]
 tags: [AI, Sales]
 image: assets/images/freshmarketers-vs-7targets.png
 # beforetoc: "Prism highlighter is a very powerful thing."
 # toc: true
-description: "Comparison between Freshmarketers and 7Targets AI Sales Assistant as Freshmarketers alternative. One honest comparison attempt. "
+description: "Double the power of Freshworks with 7Targets. Comparison between Freshmarketers and 7Targets AI Sales Assistant as Freshmarketers alternative. One honest comparison attempt. "
 # rating: 4.5
 ---
 AI Sales Assistant or Virtual SDR are helping to get the consistency and reliability in the Sales process. AI Sales Assistant market is growing and each product is taking its perspective to provide value for their customer. Below are some important expectations one has from the AI Sales Assistant.
