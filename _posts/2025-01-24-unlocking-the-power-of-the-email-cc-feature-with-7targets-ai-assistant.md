@@ -37,7 +37,7 @@ One of the standout benefits of the Email CC feature is its ability to significa
 The **AI Sales Assistant** streamlines the follow-up process, allowing sales teams to concentrate on closing deals rather than chasing leads. This automation not only saves valuable time but also ensures that leads receive timely communication. As a result, the chances of conversion are greatly enhanced.
 
 <div class="video-container">
-    <iframe src="https://www.youtube.com/watch?v=l62KcYAxHik" height="380" width="560" 
+    <iframe src="https://www.youtube.com/embed/l62KcYAxHik" height="380" width="560" 
     allow="autoplay; encrypted-media"
     frameborder="0">
     </iframe>
