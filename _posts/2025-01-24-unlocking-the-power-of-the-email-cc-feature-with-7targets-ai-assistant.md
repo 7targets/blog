@@ -60,7 +60,7 @@ The assistant continues to follow up internally until the lead is responded to. 
 
 
 ### Real-World Success Stories
-![Real-World Success Stories](../assets/images/success-stories.png)
+![Real-World Success Stories](../assets/images/success-stories.jpg)
 #### Case Study: Shreeji Pharma
 
 Shreeji Pharma's success story exemplifies the effectiveness of the Email CC feature. By leveraging the AI Assistant for follow-ups, they not only increased their response rates but also improved their overall sales performance. Their journey showcases how the Email CC feature can transform email strategies and drive results.
