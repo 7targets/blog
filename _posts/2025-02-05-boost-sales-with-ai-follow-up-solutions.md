@@ -124,7 +124,7 @@ By following these best practices, you can create a robust AI follow-up strategy
 AI follow-up solutions can revolutionize your sales process. By automating follow-ups, you can ensure timely communication, increase response rates, and ultimately drive higher sales.
 
 Real-world success stories, like that of Shreeji Pharma, demonstrate the tangible benefits of implementing AI-driven persistence.  
-![AI Driven Sales Process](../assets/images/ai-driven-sales-process.png]  
+![AI Driven Sales Process](../assets/images/ai-driven-sales-process.png)  
 ---
 
 ### Next Steps for Implementation
